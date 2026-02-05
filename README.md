@@ -5,7 +5,7 @@
 ---
 
 # 👋 Hey, I'm Ravi V Sabhahith!  
-### Learning Cloud Technology and Development | C, C++, Python | Building Skills for Tomorrow
+### Exploring Cloud Technology and Development | C, C++, Python | Building Skills for Tomorrow
 
 ---
 
