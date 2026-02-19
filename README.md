@@ -74,11 +74,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagmi8910&layout=compact&theme=highcontrast" alt="Top Languages" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi7907&layout=compact&theme=highcontrast" alt="Top Languages" />  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagmi8910&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi7907&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />  
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vagmi8910&theme=dark&hide_border=true" alt="GitHub Streak" />  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi7907&theme=dark&hide_border=true" alt="GitHub Streak" />  
 
 </div>  
 
