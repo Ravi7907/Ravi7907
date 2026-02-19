@@ -61,8 +61,9 @@
 </a>
 
 <a href="https://gravity-lang.org/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/gravity-original.svg" alt="Gravity" height="60"/>
+  <img src="https://cdn.simpleicons.org/gravity" alt="Gravity" height="60"/>
 </a>
+
 
 
 
