@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://gravity-lang.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/gravity" alt="Gravity" height="60"/>
+  <img src="https://seeklogo.com/images/G/gravity-logo-434140-vector-logo.svg" alt="Gravity" height="60"/>
 </a>
 
 
