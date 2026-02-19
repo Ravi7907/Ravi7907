@@ -60,9 +60,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="60"/>
 </a>
 
-<a href="https://gravity-lang.org/" target="_blank">
-  <img src="https://github.com/Ravi7907/first.git" alt="Gravity Programming Language" height="60"/>
+<a href="https://antigravity.google/" target="_blank">
+  <img src="https://github.com/Ravi7907/first.git" alt="Antigravity" height="60"/>
 </a>
+
 
 
 
