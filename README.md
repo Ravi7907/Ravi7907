@@ -60,10 +60,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="60"/>
 </a>
 
-<a href="https://gravity-lang.org/" target="_blank">
-  <img src="https://seeklogo.com/images/G/gravity-logo-434140-vector-logo.svg" alt="Gravity" height="60"/>
+<a href="https://gravity-lang.org/" target="_blank" style="font-size:60px; font-weight:bold; text-decoration:none;">
+  Gravity
 </a>
-
 
 
 
