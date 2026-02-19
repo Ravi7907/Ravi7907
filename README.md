@@ -31,8 +31,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60"/>
+<a href="https://en.cppreference.com/w/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60"/>
 </a>
 
 
