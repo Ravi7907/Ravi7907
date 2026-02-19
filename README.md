@@ -52,11 +52,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="60"/>
 </a>
 
-
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="60"/>
-</a>
-
 <a href="https://www.tableau.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="60"/>
 </a>
@@ -64,6 +59,11 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="60"/>
 </a>
+
+<a href="https://gravity-lang.org/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/gravity-original.svg" alt="Gravity" height="60"/>
+</a>
+
 
 
 </div>  
