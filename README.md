@@ -79,9 +79,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi7907&layout=compact&theme=highcontrast" alt="Top Languages" />  
 
-<img height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=Ravi7907&show_icons=true&theme=midnight-purple&cache_seconds=1800" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ravi7907&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="180"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi7907&theme=dark&hide_border=true" alt="GitHub Streak" />  
 
 </div>  
