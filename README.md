@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://antigravity.google/" target="_blank">
-  <img src="https://github.com/Ravi7907/first.git" alt="Antigravity" height="60"/>
+  <img src="https://github.com/Ravi7907/first/blob/main/google_antigravity_logo.png" alt="Antigravity" height="60"/>
 </a>
 
 
