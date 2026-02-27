@@ -1,87 +1,24 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# 💫 About Me:
+Pursuing BE in CSE<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Networking, Database, C++
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dexterr06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Ravi V Sabhahith) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@its_me_dexter06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravisabhahith22@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ravi7907&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ravi7907&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi7907&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ravi7907&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ravi7907&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ravi7907&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👋 Hey, I'm Ravi V Sabhahith!  
-### Exploring Cloud Technology and Development | C, C++, Python | Building Skills for Tomorrow
-
----
-
-<div align="center">
-  
-<a href="https://github.com/Ravi7907" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
-</a>
-
-<a href="https://www.linkedin.com/in/ravi-v-sabhahith-553a01320/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
-</a>  
-
-</div>  
-
----
-
-## 🚀 Languages and Tools  
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 20px;">
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60"/>
-</a>
-
-<a href="https://en.cppreference.com/w/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60"/>
-</a>
-
-
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="60"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="60"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="60"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="60"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="60"/>
-</a>
-
-<a href="https://antigravity.google/" target="_blank">
-  <img src="https://github.com/Ravi7907/first/blob/main/google_antigravity_logo.png" alt="Antigravity" height="60"/>
-</a>
-
-
-
-
-
-
-</div>  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi7907&layout=compact&theme=highcontrast" alt="Top Languages" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi7907&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="180"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi7907&theme=dark&hide_border=true" alt="GitHub Streak" />  
-
-</div>  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
