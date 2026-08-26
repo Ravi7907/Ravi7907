@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Pursuing BE in CSE<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Networking, Database, C++
+Pursuing BE in CSE<br>🌱 I’m currently learning DevOps<br>💬 Ask me about C++
 
 
 ## 🌐 Socials:
